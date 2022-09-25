@@ -1,0 +1,14 @@
+{
+	"custom.ambient.tutorial.greek_tutorial": {
+		"subtitle": "Satyr plays music",
+		"sounds": [
+			{"name": "custom/ambient/tutorial/greek_tutorial"}
+		]
+	},
+	"custom.ambient.tutorial.roman_tutorial": {
+		"subtitle": "Wolf howls",
+		"sounds": [
+			{"name": "custom/ambient/tutorial/roman_tutorial"}
+		]
+	}
+}
